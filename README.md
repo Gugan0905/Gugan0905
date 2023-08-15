@@ -24,6 +24,7 @@
 - **Machine Learning**: Sklearn | Pandas
 - **Languages**: Python | Java | SQL | C++ | R
 - **Libraries/Software**: CUDA | AWS | PostgreSQL
+- **AI/DL-CV Research**: [Google Scholar - Gugan Kathiresan](https://scholar.google.com/citations?hl=en&user=Zq5cHWkAAAAJ)
 
 #### Certifications
 
