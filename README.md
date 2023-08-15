@@ -74,7 +74,7 @@ _(2020 Impact factor: 0.55) (https://doi.org/10.1088/1742-6596/1911/1/012004)_
 - A modest IoT based smart parking system with business analytics integration.
 International Conference on Robotics, Intelligent Automation & Control Technologies- 2021
 
-## 📊 Stats
+## 📊 Stats (Work in Progress 😎)
 
 ![Gugan S Kathiresan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gugan0905&show_icons=true)
 
