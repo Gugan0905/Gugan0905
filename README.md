@@ -15,35 +15,6 @@
 - 📈 Google Scholar: [Google Scholar - Gugan Kathiresan](https://scholar.google.com/citations?hl=en&user=Zq5cHWkAAAAJ)
 - ☁️ Portfolio: Coming Soon!
 
-### 🛠️ Skills
-
-#### Technical Skills
-
-- **Deep Learning**: PyTorch | Keras | TensorFlow
-- **Computer Vision**: OpenCV | MMlabs | Detectron2
-- **Machine Learning**: Sklearn | Pandas
-- **Languages**: Python | Java | SQL | C++ | R
-- **Libraries/Software**: CUDA | AWS | PostgreSQL
-- **AI/DL-CV Research**: [Google Scholar - Gugan Kathiresan](https://scholar.google.com/citations?hl=en&user=Zq5cHWkAAAAJ)
-
-#### Certifications
-
-- Deep Learning Specialization
-- Advanced Computer Vision
-- Deep Learning and CV A-Z
-
-### 💼 Recent Professional Experience
-
-#### Teaching Assistant - Data Science
-
-**Khoury College of Computer Sciences, Northeastern University, Boston, MA**  
-*September 2023 - December 2023*
-
-#### CV/ML Software Engineering Co-Op Intern
-
-**rStream Recycling LLC, Somerville, MA**  
-*May 2023 – September 2023*
-
 ### 📈 Research Contributions
 
 Check out my research at [Google Scholar - Gugan Kathiresan](https://scholar.google.com/citations?hl=en&user=Zq5cHWkAAAAJ)
@@ -74,6 +45,36 @@ International Conference on Innovative Technology for Sustainable Development-20
 _(2020 Impact factor: 0.55) (https://doi.org/10.1088/1742-6596/1911/1/012004)_
 - A modest IoT based smart parking system with business analytics integration.
 International Conference on Robotics, Intelligent Automation & Control Technologies- 2021
+
+### 🛠️ Skills
+
+#### Technical Skills
+
+- **Deep Learning**: PyTorch | Keras | TensorFlow
+- **Computer Vision**: OpenCV | MMlabs | Detectron2
+- **Machine Learning**: Sklearn | Pandas
+- **Languages**: Python | Java | SQL | C++ | R
+- **Libraries/Software**: CUDA | AWS | PostgreSQL
+- **AI/DL-CV Research**: [Google Scholar - Gugan Kathiresan](https://scholar.google.com/citations?hl=en&user=Zq5cHWkAAAAJ)
+
+#### Certifications
+
+- Deep Learning Specialization
+- Advanced Computer Vision
+- Deep Learning and CV A-Z
+
+### 💼 Recent Professional Experience
+
+#### Teaching Assistant - Data Science
+
+**Khoury College of Computer Sciences, Northeastern University, Boston, MA**  
+*September 2023 - December 2023*
+
+#### CV/ML Software Engineering Co-Op Intern
+
+**rStream Recycling LLC, Somerville, MA**  
+*May 2023 – September 2023*
+
 
 ## 📊 Stats (Work in Progress 😎)
 
