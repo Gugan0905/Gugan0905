@@ -66,22 +66,13 @@ International Conference on Robotics, Intelligent Automation & Control Technolog
 
 ### 💼 Recent Professional Experience
 
-#### Teaching Assistant - Data Science
-
-**Khoury College of Computer Sciences, Northeastern University, Boston, MA**  
-*September 2023 - December 2023*
-
-#### CV/ML Software Engineering Co-Op Intern
-
-**rStream Recycling LLC, Somerville, MA**  
-*May 2023 – September 2023*
-
-**Khoury College of Computer Sciences, Northeastern University** *Boston, MA*
-*September 2023 – April 2024*
-#### - Teaching Assistant - DS3000 Foundations of Data Science		   
+**Khoury College of Computer Sciences, Northeastern University**
+*Boston, MA*
+#### Teaching Assistant - DS3000 Foundations of Data Science | September 2023 – April 2024
 - Supported 200+ students in key topics – (data exploration, data cleaning, model interpretability, model optimization and hypothesis testing) through scheduled office hours, & programming assistance.
 
-**rStream Recycling LLC** *Somerville, MA*
+**rStream Recycling LLC** 
+*Somerville, MA*
 #### Part-time Data Analytics and Visualization Engineer | September 2023 – December 2023
 - Key role in the success of the patent pending “AuditPRO”, preparing monthly analytics reports, presentations.
 - Created Streamlit dashboards for prototype analytics using pandas, matplotlib, AWS EC2 and S3 storage.
