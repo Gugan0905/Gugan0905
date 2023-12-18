@@ -6,7 +6,7 @@
 
 🎓 I am Gugan S Kathiresan, a passionate AI enthusiast and a graduate student pursuing a Master of Science in Artificial Intelligence at Northeastern University, Boston.
 
-👨‍💻 I enjoy delving into the realm of Artificial Intelligence, with a focus on Deep Learning, Computer Vision, and Data Science. My academic journey has equipped me with a strong foundation in AI, and I am eager to contribute to cutting-edge projects in the field.
+👨‍💻 I enjoy delving into the realm of Artificial Intelligence, with a focus on Deep Learning, Computer Vision, and Data Science. My academic journey has equipped me with a strong foundation, and I am eager to contribute to cutting-edge projects in the field.
 
 ### 🌐 Connect with Me
 
