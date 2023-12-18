@@ -37,8 +37,8 @@ _(2020 Impact factor: 1.856) (https://doi.org/10.1016/j.irbm.2021.07.002)_
 - “Gaussian Dropout based stacked ensemble CNN for Classification of Breast Tumor in Ultrasound Images”
 Innovation and Research in BioMedical Eng., Elsevier 
 _(2020 Impact factor: 1.856) (https://doi.org/10.1016/j.irbm.2021.10.002)_
-- “Artificial Intelligence is going to war”
-_(Under Review)_ HSSCOMMS, Nature, 
+- “Algorithms and Decision-Making In Military Artificial Intelligence”
+_Global Society, (https://doi.org/10.1080/13600826.2023.2273484)_
 _(2021 Impact factor: 2,73)_
 - “Disease detection in Rice leaves using transfer learning techniques”
 International Conference on Innovative Technology for Sustainable Development-2021 + IOP - Journal of Physics: Conference Series 
