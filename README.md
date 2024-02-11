@@ -1,10 +1,6 @@
 # Gugan S Kathiresan - GitHub Profile README
 
-<p align="center">
-  <img src="https://socialify.git.ci/Gugan0905/Gugan0905/image?font=Source%20Code%20Pro&forks=0&issues=0&language=1&name=1&owner=1&pattern=Plus&pulls=0&stargazers=1&theme=Dark" alt="Gugan0905" width="700" height="300" />
-</p>
-
-## Hi there! 👋
+![Gugan0905](https://socialify.git.ci/Gugan0905/Gugan0905/image?description=1&descriptionEditable=Hi%20there!%20%F0%9F%91%8B%0AWelcome%20to%20my%20GitHub!&font=Rokkitt&owner=1&pattern=Charlie%20Brown&theme=Dark)
 
 ### 🚀 About Me
 
