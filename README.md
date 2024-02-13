@@ -21,6 +21,14 @@
 [![Button Click]][Link3] - **Computer Science**: Core Computer Science related projects <br>
 [![Button Click]][Link4] - **Computer Engineering**: Core Computer Engineering related projects <br>
 
+## 📊 Stats (Work in Progress 😎)
+
+![Gugan S Kathiresan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gugan0905&layout=compact&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gugan0905&layout=compact&theme=dark&hide_border=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gugan0905)](https://github.com/Gugan0905/github-profile-trophy)
+
 ## 📈 Research Contributions
 
 Check out my research at [Google Scholar - Gugan Kathiresan](https://scholar.google.com/citations?hl=en&user=Zq5cHWkAAAAJ)
@@ -58,14 +66,6 @@ and future directions” <br>
 - **Languages**: <kbd> <br> Python <br> </kbd> <kbd> <br> Java <br> </kbd> <kbd> <br> SQL <br> </kbd> <kbd> <br> C++ <br> </kbd> <kbd> <br>R <br> </kbd>
 - **AI/DL-CV Research**: <kbd> <br> [Google Scholar - Gugan Kathiresan](https://scholar.google.com/citations?hl=en&user=Zq5cHWkAAAAJ) <br> </kbd>
 
-
-## 📊 Stats (Work in Progress 😎)
-
-![Gugan S Kathiresan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gugan0905&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gugan0905&layout=compact&theme=dark&hide_border=true)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gugan0905)](https://github.com/Gugan0905/github-profile-trophy)
 
 ## 📱 Let's Connect
 
