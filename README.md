@@ -16,7 +16,7 @@
 - 📄 Curriculum Vitae: [GuganKathiresan-CV-2Page.pdf](GuganKathiresan-CV-2Page.pdf)
 
 ## Check out my GitHub Lists for repositories organized into topics!
-[![Button Click]][Link1] - **Data, Data, Everywhere!**: Data Science, Data Analytics and Data Engineering projects <br>
+[![Button Click]][Link1] - **Data, Data, Everywhere!**: Data Science, Data Analytics + Visualization and Data Engineering projects <br>
 [![Button Click]][Link2] - **Computer Vision 🖥️ 📷**: Deep Learning - Computer Vision projects <br>
 [![Button Click]][Link3] - **Computer Science**: Core Computer Science related projects <br>
 [![Button Click]][Link4] - **Computer Engineering**: Core Computer Engineering related projects <br>
