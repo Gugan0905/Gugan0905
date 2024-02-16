@@ -1,7 +1,6 @@
 # Gugan S Kathiresan - GitHub Profile README
 
 ![Gugan0905](https://socialify.git.ci/Gugan0905/Gugan0905/image?description=1&descriptionEditable=Hi%20there!%20%F0%9F%91%8B%0AWelcome%20to%20my%20GitHub!&font=Rokkitt&owner=1&pattern=Charlie%20Brown&theme=Dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gugan0905&size_weight=0&count_weight=1&layout=compact&theme=dark&hide_border=true)
 
 ### 🚀 About Me
 
@@ -21,6 +20,7 @@
 [![Button Click]][Link2] - **Computer Vision 🖥️ 📷**: Deep Learning - Computer Vision projects <br>
 [![Button Click]][Link3] - **Computer Science**: Core Computer Science related projects <br>
 [![Button Click]][Link4] - **Computer Engineering**: Core Computer Engineering related projects <br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gugan0905&size_weight=0&count_weight=1&layout=compact&theme=dark&hide_border=true)
 
 
 ## 📊 GitHub Stats (Work in Progress 😎)
