@@ -18,7 +18,7 @@
 ## Check out my GitHub Lists for repositories organized into topics!
 [![Button Click]][Link1] - **Data, Data, Everywhere!**: Data Science, Data Analytics + Visualization and Data Engineering projects <br>
 [![Button Click]][Link2] - **Computer Vision 🖥️ 📷**: Deep Learning - Computer Vision projects <br>
-[![Button Click]][Link4] - **NLP 📖**: Deep Learning - Natural Language Processing projects <br>
+[![Button Click]][Link5] - **NLP 📖**: Deep Learning - Natural Language Processing projects <br>
 [![Button Click]][Link3] - **Computer Science**: Core Computer Science related projects <br>
 [![Button Click]][Link4] - **Computer Engineering**: Core Computer Engineering related projects <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gugan0905&size_weight=0&count_weight=1&layout=compact&theme=dark&hide_border=true)
@@ -81,7 +81,7 @@ Gugan S Kathiresan
 [Link1]: https://github.com/stars/Gugan0905/lists/data-data-everywhere
 [Link2]: https://github.com/stars/Gugan0905/lists/computer-vision
 [Link3]: https://github.com/stars/Gugan0905/lists/computer-science-projects
-[Link4]: https://github.com/stars/Gugan0905/lists/computer-engineering-projects
+[Link4]: https://github.com/stars/Gugan0905/lists/computer-engineering-iot
 [Link5]: https://github.com/stars/Gugan0905/lists/nlp
 <!---------------------------------[ Buttons ]--------------------------------->
 [Button Click]: https://img.shields.io/badge/Click_Me!-37a779?style=for-the-badge
